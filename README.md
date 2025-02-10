@@ -1,4 +1,5 @@
-# foundations-why-britain-has-stagnated-ebook
+# Foundations
+## Why Britain Has Stagnated
  
 This is an e-book version of the excellent essay that was originally published here:
 
